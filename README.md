@@ -1,14 +1,10 @@
-# Health Check DevOps
+# Desafio DevOps Light: Health Check DevOps
 
-Este projeto foi criado para resolver um desafio de conhecimento e testar habilidades em:
+Este projeto foi criado para resolver um desafio de conhecimento e testar habilidades.
 
-- Python
-- Leitura de variáveis com `.env`
-- Organização de código em módulos
-- Registro em log (`log.txt`)
-- Automatização com GitHub Actions
+A ideia é simples: utilizando Health Check Automático com Python e GitHub Actions, desenvolva uma automação cujo objetivo é:
 
-A ideia é simples: verificar se determinadas URLs estão online e registrar o resultado.
+> Criar um script em Python que verifica a saúde de serviços (HTTP) e que pode ser executado manualmente ou testado via GitHub Actions.
 
 ---
 
