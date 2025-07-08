@@ -1,8 +1,8 @@
 name: Health Check (Hourly)
 
 on:
-#   schedule:
-    # - cron: '0 * * * *'  # A cada 1 hora (UTC)
+  #   schedule:
+  # - cron: '0 * * * *'  # A cada 1 hora (UTC)
   workflow_dispatch:
 
 jobs:
