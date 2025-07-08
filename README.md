@@ -1,4 +1,4 @@
-# Desafio DevOps Light: Health Check DevOps
+# Desafio DevOps: Health Check
 
 Este projeto foi criado para resolver um desafio de conhecimento e testar habilidades.
 
